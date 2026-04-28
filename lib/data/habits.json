@@ -1,0 +1,74 @@
+[
+  {
+    "id": "work-1",
+    "title": "Deep Work Session",
+    "category": "work",
+    "icon": "💼",
+    "timeBlock": "07:00 - 10:00",
+    "streak": 0,
+    "lastCompleted": null
+  },
+  {
+    "id": "work-2",
+    "title": "Team Sync / Meetings",
+    "category": "work",
+    "icon": "🤝",
+    "timeBlock": "10:00 - 12:00",
+    "streak": 0,
+    "lastCompleted": null
+  },
+  {
+    "id": "gym-2",
+    "title": "Evening Walk / Run",
+    "category": "gym",
+    "icon": "🏃",
+    "timeBlock": "19:30 - 20:30",
+    "streak": 0,
+    "lastCompleted": null
+  },
+  {
+    "id": "content-1",
+    "title": "Create Content",
+    "category": "content",
+    "icon": "🎬",
+    "timeBlock": "20:30 - 22:00",
+    "streak": 0,
+    "lastCompleted": null
+  },
+  {
+    "id": "learning-1",
+    "title": "Read / Study",
+    "category": "learning",
+    "icon": "📚",
+    "timeBlock": "22:00 - 23:00",
+    "streak": 0,
+    "lastCompleted": null
+  },
+  {
+    "id": "learning-2",
+    "title": "Online Course",
+    "category": "learning",
+    "icon": "🎓",
+    "timeBlock": "12:30 - 13:00",
+    "streak": 0,
+    "lastCompleted": null
+  },
+  {
+    "id": "rest-1",
+    "title": "Meditation",
+    "category": "rest",
+    "icon": "🧘",
+    "timeBlock": "07:00 - 07:15",
+    "streak": 0,
+    "lastCompleted": null
+  },
+  {
+    "id": "rest-2",
+    "title": "Screen-free Wind Down",
+    "category": "rest",
+    "icon": "🌙",
+    "timeBlock": "23:00 - 23:30",
+    "streak": 0,
+    "lastCompleted": null
+  }
+]

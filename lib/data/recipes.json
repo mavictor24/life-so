@@ -1,0 +1,9 @@
+[
+  { "id": "r1", "title": "Pancake Stack", "cuisine": "Breakfast", "url": "https://www.youtube.com/results?search_query=pancake+stack+recipe" },
+  { "id": "r2", "title": "Chicken Caesar Wrap", "cuisine": "Lunch", "url": "https://www.youtube.com/results?search_query=chicken+caesar+wrap+recipe" },
+  { "id": "r3", "title": "Creamy Garlic Chicken Pasta", "cuisine": "Dinner", "url": "https://www.youtube.com/results?search_query=creamy+garlic+chicken+pasta+recipe" },
+  { "id": "r4", "title": "Chocolate Lava Mug Cake", "cuisine": "Dessert", "url": "https://www.youtube.com/results?search_query=chocolate+lava+mug+cake+recipe" },
+  { "id": "r5", "title": "Crispy Nachos", "cuisine": "Snacks", "url": "https://www.youtube.com/results?search_query=crispy+nachos+recipe" },
+  { "id": "r6", "title": "Berry Smoothie", "cuisine": "Drinks", "url": "https://www.youtube.com/results?search_query=berry+smoothie+recipe" },
+  { "id": "r7", "title": "Avocado Toast with Eggs", "cuisine": "Brunch", "url": "https://www.youtube.com/results?search_query=avocado+toast+eggs+recipe" }
+]
